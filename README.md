@@ -1,6 +1,6 @@
 ### Hi there, I'm Nitish - aka [koffeeandme][website] 👋
 
-## I'm a soon to be Husband, Developer, and Novice Designer!
+## I'm a Developer,Novice Designer and soon to be Husband,!
 - 🔭 I’m currently working at [ShareTheMeal][workwebsite]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
