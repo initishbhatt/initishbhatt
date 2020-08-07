@@ -38,7 +38,7 @@
 
 <img align="left" alt="initishbhatt's Github Stats" src="https://github-readme-stats.vercel.app/api?username=initishbhatt&show_icons=true&hide_border=true" />
 
-[website]: https://koffeeandme.com
+[website]: https://www.koffeeandme.com
 [twitter]: https://twitter.com/initishbhatt
 [instagram]: https://instagram.com/nitiishbhatt
 [linkedin]: https://linkedin.com/in/initishbhatt
