@@ -32,6 +32,10 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Humility, Respect, Trust](https://www.koffeeandme.com/humility-respect-trust/)
+- [Understanding Android NDK with Kotlin: Episode 3— Callbacks Continued](https://www.koffeeandme.com/understanding-android-ndk-with-kotlin-episode-3-callbacks-continued/)
+- [Understanding Android NDK with Kotlin: Episode 2 — Callbacks(kotlin to cpp)](https://www.koffeeandme.com/understanding-android-ndk-with-kotlin-episode-2-callbacks-kotlin-to-cpp/)
+- [Understanding Android NDK with Kotlin: Episode 1](https://www.koffeeandme.com/understanding-android-ndk-with-kotlin-episode-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
