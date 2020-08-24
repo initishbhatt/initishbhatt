@@ -40,7 +40,7 @@
 
 ---
 
-<img align="left" alt="initishbhatt's Github Stats" src="https://github-readme-stats.vercel.app/api?username=initishbhatt&show_icons=true&hide_border=true" />
+<img align="left" alt="initishbhatt's Github Stats" src="https://github-stats.initishbhatt.vercel.app/api?username=initishbhatt&show_icons=true&hide_border=true" />
 
 [website]: https://www.koffeeandme.com
 [twitter]: https://twitter.com/initishbhatt
@@ -55,3 +55,5 @@
 [swift]:https://github.com/apple
 [git]:https://github.com/
 [github]:https://github.com/
+
+
