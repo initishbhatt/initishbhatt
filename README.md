@@ -1,4 +1,4 @@
-### Hi there, I'm Nitish - aka [koffeeandme][website] 👋
+### Hi there, I'm Nitish [koffeeandme][website] 👋
 
 ## I'm a Developer,Novice Designer and a Husband!
 - 🔭 I’m currently working at [ShareTheMeal][workwebsite]!
