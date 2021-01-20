@@ -3,7 +3,7 @@
 ## I'm a Developer,Novice Designer and a Husband!
 - 🔭 I’m currently working at [ShareTheMeal][workwebsite]!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play chess
 
 ### Connect with me:
