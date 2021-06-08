@@ -6,6 +6,8 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play chess
 
+![](https://github-profile-trophy.vercel.app/?username=initishbhatt)
+
 ### Connect with me:
 
 [<img align="left" alt="koffeeandme.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
