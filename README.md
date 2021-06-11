@@ -32,10 +32,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Effective Engineer by Edmond Lau](https://www.nitishbhatt.dev/books/effective-engineer/)
+- [Ikigai: The Japanese Secret to a Long and Happy Life](https://www.nitishbhatt.dev/books/ikigai-the-japanese-secret-to-a-long-and-happy-life-https-www-goodreads-com-book-show-40534545-ikigai/)
+- [Let's Talk Money: You've Worked Hard for It, Now Make It Work for You](https://www.nitishbhatt.dev/books/lets-talk-money-youve-worked-hard-for-it-now-make-it-work-for-you/)
 - [Humility, Respect, Trust](https://www.nitishbhatt.dev/humility-respect-trust/)
-- [Understanding Android NDK with Kotlin: Episode 3— Callbacks Continued](https://www.nitishbhatt.dev/understanding-android-ndk-with-kotlin-episode-3-callbacks-continued/)
-- [Understanding Android NDK with Kotlin: Episode 2 — Callbacks(kotlin to cpp)](https://www.nitishbhatt.dev/understanding-android-ndk-with-kotlin-episode-2-callbacks-kotlin-to-cpp/)
-- [Understanding Android NDK with Kotlin: Episode 1](https://www.nitishbhatt.dev/understanding-android-ndk-with-kotlin-episode-1/)
+- [Arranging Coins](https://www.nitishbhatt.dev/algorithms/arranging-coins/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
