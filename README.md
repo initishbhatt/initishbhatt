@@ -32,11 +32,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Vacuum Cleaner Route](https://www.nitishbhatt.dev/algorithms/vacuum-cleaner-route/)
+- [Valid Palindrome](https://www.nitishbhatt.dev/algorithms/valid-palindrome/)
+- [Given a string, reverse all of its characters and return the resulting string.](https://www.nitishbhatt.dev/algorithms/given-a-string-reverse-all-of-its-characters-and-return-the-resulting-string/)
 - [Understanding the Four Rules of Simple Design](https://www.nitishbhatt.dev/books/understanding-the-four-rules-of-simple-design-2/)
 - [Swift UI Series #1: Floating Action Button](https://www.nitishbhatt.dev/swift-ui-series-floating-action-button/)
-- [The Effective Engineer by Edmond Lau](https://www.nitishbhatt.dev/books/effective-engineer/)
-- [Ikigai: The Japanese Secret to a Long and Happy Life](https://www.nitishbhatt.dev/books/ikigai-the-japanese-secret-to-a-long-and-happy-life-https-www-goodreads-com-book-show-40534545-ikigai/)
-- [Let's Talk Money: You've Worked Hard for It, Now Make It Work for You](https://www.nitishbhatt.dev/books/lets-talk-money-youve-worked-hard-for-it-now-make-it-work-for-you/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
