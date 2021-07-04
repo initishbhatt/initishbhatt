@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Vacuum Cleaner Route](https://www.nitishbhatt.dev/algorithms/vacuum-cleaner-route/)
-- [Valid Palindrome](https://www.nitishbhatt.dev/algorithms/valid-palindrome/)
-- [Given a string, reverse all of its characters and return the resulting string.](https://www.nitishbhatt.dev/algorithms/given-a-string-reverse-all-of-its-characters-and-return-the-resulting-string/)
-- [Understanding the Four Rules of Simple Design](https://www.nitishbhatt.dev/books/understanding-the-four-rules-of-simple-design-2/)
-- [Swift UI Series #1: Floating Action Button](https://www.nitishbhatt.dev/swift-ui-series-floating-action-button/)
+- [Jewels and Stones](https://www.nitishbhatt.dev/algorithms/jewels-and-stones/)
+- [Xcode Essential Shortcuts](https://www.nitishbhatt.dev/xcode-essential-s/)
+- [Valid Palindrome with Removal](https://www.nitishbhatt.dev/algorithms/valid-palindrome-with-removal/)
+- [Two Sum](https://www.nitishbhatt.dev/algorithms/two-sum/)
+- [Longest Common Prefix](https://www.nitishbhatt.dev/algorithms/longest-common-prefix/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
