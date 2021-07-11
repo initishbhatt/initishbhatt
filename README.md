@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Spot the Difference](https://www.nitishbhatt.dev/algorithms/spot-the-difference/)
+- [First Unique Character](https://www.nitishbhatt.dev/algorithms/first-unique-character/)
+- [Valid Anagram](https://www.nitishbhatt.dev/algorithms/valid-anagram/)
 - [Jewels and Stones](https://www.nitishbhatt.dev/algorithms/jewels-and-stones/)
 - [Xcode Essential Shortcuts](https://www.nitishbhatt.dev/xcode-essential-s/)
-- [Valid Palindrome with Removal](https://www.nitishbhatt.dev/algorithms/valid-palindrome-with-removal/)
-- [Two Sum](https://www.nitishbhatt.dev/algorithms/two-sum/)
-- [Longest Common Prefix](https://www.nitishbhatt.dev/algorithms/longest-common-prefix/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
