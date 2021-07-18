@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Fruit Into Baskets](https://www.nitishbhatt.dev/algorithms/fruit-into-baskets/)
+- [Longest Substring with K Distinct Characters](https://www.nitishbhatt.dev/algorithms/longest-substring-with-k-distinct-characters/)
+- [Subarray  Sum](https://www.nitishbhatt.dev/algorithms/smallest-subarray-with-a-given-sum/)
 - [Spot the Difference](https://www.nitishbhatt.dev/algorithms/spot-the-difference/)
 - [First Unique Character](https://www.nitishbhatt.dev/algorithms/first-unique-character/)
-- [Valid Anagram](https://www.nitishbhatt.dev/algorithms/valid-anagram/)
-- [Jewels and Stones](https://www.nitishbhatt.dev/algorithms/jewels-and-stones/)
-- [Xcode Essential Shortcuts](https://www.nitishbhatt.dev/xcode-essential-s/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
