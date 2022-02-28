@@ -30,8 +30,6 @@
 
 ---
 
-<img align="left" alt="initishbhatt's Github Stats" src="https://github-readme-stats.initishbhatt.vercel.app/api?username=initishbhatt&show_icons=true&hide_border=true" />
-
 [website]: https://www.nitishbhatt.dev
 [twitter]: https://twitter.com/initishbhatt
 [instagram]: https://instagram.com/nitiishbhatt
