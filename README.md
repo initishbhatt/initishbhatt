@@ -1,10 +1,10 @@
 ### Hi there, I'm [Nitish][website] 👋
 
-## I'm a Developer,Novice Designer and a Husband!
+## I'm a Developer and a intermediate Designer
 - 🔭 I’m currently working at [ShareTheMeal][workwebsite]!
-- 🌱 I’m currently learning swift-ui and jetpack compose
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play chess
+- 🌱 I’m currently learning swift-ui and jetpack compose.
+- 🥅 2022-23 Goals: Contribute more to Open Source projects.
+- ⚡ Fun fact: I love to watch anime, play chess and video games.
 
 ### Connect with me:
 
