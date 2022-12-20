@@ -3,7 +3,7 @@
 ## I'm a Developer and a intermediate Designer
 - 🔭 I’m currently working at [ShareTheMeal][workwebsite]!
 - 🌱 I’m currently learning swift-ui and jetpack compose.
-- 🥅 2022-23 Goals: Contribute more to Open Source projects.
+- 🥅 2023-24 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to watch anime, play chess and video games.
 
 ### Connect with me:
