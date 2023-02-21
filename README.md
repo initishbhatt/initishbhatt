@@ -19,11 +19,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Fruit Into Baskets](https://www.nitishbhatt.dev/algorithms/fruit-into-baskets/)
-- [Longest Substring with K Distinct Characters](https://www.nitishbhatt.dev/algorithms/longest-substring-with-k-distinct-characters/)
-- [Subarray  Sum](https://www.nitishbhatt.dev/algorithms/smallest-subarray-with-a-given-sum/)
-- [Spot the Difference](https://www.nitishbhatt.dev/algorithms/spot-the-difference/)
-- [First Unique Character](https://www.nitishbhatt.dev/algorithms/first-unique-character/)
+- [Inverting Dependencies for Better Code: A Guide to the Dependency Inversion Principle in Kotlin](https://nitishbhatt.dev/solid-principles-dependency-inversion-principle/)
+- [Elevating Your Code with the Interface Segregation Principle in Kotlin: Examples and Best Practices](https://nitishbhatt.dev/solid-principles-interface-segregation-principle/)
+- [Understanding the Liskov Substitution Principle with Kotlin: Examples and Best Practices](https://nitishbhatt.dev/solid-principles-liskov-substitution-principle/)
+- [Mastering the Open-Closed Principle with Kotlin: Examples and Best Practices](https://nitishbhatt.dev/solid-principles-open-closed-principle/)
+- [Kotlin-ing Down Complexity: Understanding the Single Responsibility Principle](https://nitishbhatt.dev/solid-principles-single-responsibility-principle/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
