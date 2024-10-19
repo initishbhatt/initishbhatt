@@ -1,4 +1,4 @@
-### Hi there, I'm [Nitish][website] 👋
+### Hi there, I'm Nitish 👋
 
 ## I'm a Developer and a intermediate Designer
 - 🔭 I’m currently working at [ShareTheMeal][workwebsite]!
