@@ -17,18 +17,6 @@
 
 ---
 
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Inverting Dependencies for Better Code: A Guide to the Dependency Inversion Principle in Kotlin](https://nitishbhatt.dev/solid-principles-dependency-inversion-principle/)
-- [Elevating Your Code with the Interface Segregation Principle in Kotlin: Examples and Best Practices](https://nitishbhatt.dev/solid-principles-interface-segregation-principle/)
-- [Understanding the Liskov Substitution Principle with Kotlin: Examples and Best Practices](https://nitishbhatt.dev/solid-principles-liskov-substitution-principle/)
-- [Mastering the Open-Closed Principle with Kotlin: Examples and Best Practices](https://nitishbhatt.dev/solid-principles-open-closed-principle/)
-- [Kotlin-ing Down Complexity: Understanding the Single Responsibility Principle](https://nitishbhatt.dev/solid-principles-single-responsibility-principle/)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-[website]: https://www.nitishbhatt.dev
 [twitter]: https://twitter.com/initishbhatt
 [instagram]: https://instagram.com/nitiishbhatt
 [linkedin]: https://linkedin.com/in/initishbhatt
