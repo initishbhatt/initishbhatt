@@ -16,7 +16,6 @@
 <br />
 
 ---
-
 [twitter]: https://twitter.com/initishbhatt
 [instagram]: https://instagram.com/nitiishbhatt
 [linkedin]: https://linkedin.com/in/initishbhatt
